@@ -12,22 +12,17 @@ jasfdnfknadskcnvkxncknaxc
 
 
 
-print a 
-
-
 hola
 hola
 input(name)
 
 
 
-jjjj
 
-jjj
-jjjj
 
-jjkkk
-jjjj
-jjj
-kkj
+print("Hello world")
+if __name__ == "__main__"
+
+
+print a 
 
