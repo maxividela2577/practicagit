@@ -13,3 +13,21 @@ jasfdnfknadskcnvkxncknaxc
 
 
 print a 
+
+
+hola
+hola
+input(name)
+
+
+
+jjjj
+
+jjj
+jjjj
+
+jjkkk
+jjjj
+jjj
+kkj
+
